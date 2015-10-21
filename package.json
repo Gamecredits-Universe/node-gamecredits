@@ -1,0 +1,13 @@
+{
+    "name": "node-gamecredits",
+    "version": "0.0.1",
+    "description": "GameCredits client",
+    "keywords": ["gamecredits"],
+    "repository": "git://github.com/Gamecredits-Universum/node-gamecredits.git",
+    "author": "Clark Van Oyen <clark@countable.ca>",
+    "main": "lib/gamecredits.js",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+        "nodeunit": "*"
+    }
+}
